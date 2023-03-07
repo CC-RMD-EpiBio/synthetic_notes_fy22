@@ -1,0 +1,1565 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<GateDocument version="3">
+  <!-- The document's features-->
+  <GateDocumentFeatures>
+    <Feature>
+      <Name className="java.lang.String">gate.SourceURL</Name>
+      <Value className="java.lang.String">file:\\ccresearch\shares\NAB\RMD-Data\EpiBioStat\NLP\Annotation team\Synthetic documents for Gary Allen (Abstract)\merged_notes\manual_automatic</Value>
+    </Feature>
+    <Feature>
+      <Name className="java.lang.String">MimeType</Name>
+      <Value className="java.lang.String">text/plain</Value>
+    </Feature>
+    <Feature>
+      <Name className="java.lang.String">docNewLineType</Name>
+      <Value className="java.lang.String">LF</Value>
+    </Feature>
+  </GateDocumentFeatures>
+  <!-- The document content area with serialized nodes -->
+  <TextWithNodes><Node id="0"/>IDENTIFYING INFORMATION:<Node id="24"/> 
+<Node id="26"/>Name: Jane Doe
+DOB: xx/xx/xxxx<Node id="56"/> <Node id="57"/>Age: 18<Node id="64"/> <Node id="65"/>y.o.<Node id="69"/>
+<Node id="70"/>MRN: xxxxxxx<Node id="82"/>
+<Node id="83"/>Current Legal Status: Voluntary<Node id="114"/>
+<Node id="115"/>Legal Guardian: Self
+SUBJECTIVE<Node id="146"/>
+<Node id="147"/>HPI:<Node id="151"/>
+<Node id="152"/>History obtained from: Patient
+Patient is a<Node id="195"/> <Node id="196"/>37-year-old female with history of major depressive disorder who presents with increased depressed mood for the last four months.<Node id="325"/> <Node id="326"/>She reports: “I feel down, helpless, I do<Node id="367"/>n’t want to do anything”<Node id="391"/>.<Node id="392"/> <Node id="393"/>She describes increased fatigue, but she has difficulty falling asleep and staying asleep, with frequent early morning awakenings.<Node id="523"/> <Node id="524"/>Some days she <Node id="538"/>lies bed<Node id="546"/> <Node id="547"/>all day<Node id="554"/>, <Node id="556"/>leaving her husband to care for their<Node id="593"/> <Node id="594"/>8-year-old son<Node id="608"/>.<Node id="609"/> <Node id="610"/>She also feels guilty about being a “bad wife and mother” who “should be doing a lot more housework since I’m unemployed.”<Node id="732"/> <Node id="733"/>She has lost interest in former hobbies, like baking and scrapbooking.<Node id="803"/> <Node id="804"/>She also has <Node id="817"/>difficulty concentrating, which she notices during conversations with family members or when reading the newspaper<Node id="931"/>.<Node id="932"/> <Node id="933"/>She has also had a poor appetite, losing 10 pounds over the past 2 months.<Node id="1007"/> <Node id="1008"/>She <Node id="1012"/>denies active suicidal ideation, plan or intent<Node id="1059"/>, but she admits that she <Node id="1085"/>thinks about death “constantly<Node id="1115"/>”<Node id="1116"/> and feels “the world would probably be better off<Node id="1166"/> <Node id="1167"/>I wasn’t here.”<Node id="1182"/> <Node id="1183"/>She <Node id="1187"/>has <Node id="1191"/>no history of suicide attempts psychiatric hospitalizations, or self-harm<Node id="1264"/>.<Node id="1265"/> <Node id="1266"/>No guns in the home.<Node id="1286"/> <Node id="1287"/>She is married with a <Node id="1309"/>supportive spouse<Node id="1326"/>.<Node id="1327"/> <Node id="1328"/>No alcohol or drug use<Node id="1350"/>.<Node id="1351"/> <Node id="1352"/>She was fired from her job as an accountant due to <Node id="1403"/>poor work performance<Node id="1424"/> one year ago.<Node id="1438"/> <Node id="1439"/>In the past, her symptoms have been intermittent with no relation to season.<Node id="1515"/> <Node id="1516"/>She has had several years of individual <Node id="1556"/>psychotherapy “off and on<Node id="1581"/>” and <Node id="1587"/>has previously <Node id="1602"/>tried fluoxetine, sertraline, bupropion and venlafaxine<Node id="1657"/> up to max doses<Node id="1673"/>, with minimal improvement in her mood symptoms.<Node id="1721"/> 
+<Node id="1723"/>PSYCHIATRIC HISTORY:<Node id="1743"/> 
+<Node id="1745"/>Diagnoses: Major depressive disorder (diagnosed age 30)<Node id="1800"/>
+<Node id="1801"/>Psychotherapy: Prior<Node id="1821"/> with Michael Johnson, PhD
+Current Medications: None 
+Prior Medications: fluoxetine, sertraline, bupropion and venlafaxine
+Exposure to violence: None
+Guns in home: None
+SOCIAL HISTORY:<Node id="2005"/>
+<Node id="2006"/>Current Living Situation: Lives with husband, daughter (4), son (7)<Node id="2073"/>
+<Node id="2074"/>Substance Use: <Node id="2089"/>Patient <Node id="2097"/>denies use and/or abuse of tobacco, alcohol, or drugs<Node id="2150"/>
+Education: Community college graduate
+Employment: Unemployed for about a year;<Node id="2229"/> <Node id="2230"/>prior accountant<Node id="2246"/>
+<Node id="2247"/>Legal History<Node id="2260"/>: None
+<Node id="2267"/>Exercise: None currently<Node id="2291"/>
+MEDICAL HISTORY:<Node id="2308"/> 
+<Node id="2310"/>Problems: Type II Diabetes Mellitus (since 2015), hypertension (since 2014),<Node id="2386"/> <Node id="2387"/>Obesity
+Medications: metformin 500 mg twice daily and enalapril 5mg twice a day<Node id="2466"/>
+<Node id="2467"/>Allergies: NKDA<Node id="2482"/>
+<Node id="2483"/>SURGICAL HISTORY: Cholecystectomy (age 25)<Node id="2525"/>
+<Node id="2526"/>FAMILY HISTORY: Noncontributory
+REVIEW OF SYSTEMS<Node id="2575"/>: A comprehensive review of systems was performed and was negative except for noted above
+OBJECTIVE:<Node id="2675"/>
+Vitals: BP 145/96;<Node id="2694"/> <Node id="2695"/>HR 89;<Node id="2701"/> <Node id="2702"/>T 98.2;<Node id="2709"/> <Node id="2710"/>RR: 12<Node id="2716"/>
+<Node id="2717"/>DIRECT MENTAL STATUS EXAMINATION<Node id="2749"/>
+<Node id="2750"/>APPEARANCE: Obese Caucasian female who appeared stated age accompanied.<Node id="2821"/> <Node id="2822"/>She was <Node id="2830"/>dressed<Node id="2837"/> appropriately<Node id="2851"/> in a coat and jeans for the current weather and situation.<Node id="2910"/> <Node id="2911"/>Adequate <Node id="2920"/>grooming<Node id="2928"/> and <Node id="2933"/>hygiene<Node id="2940"/>.<Node id="2941"/> 
+<Node id="2943"/>BEHAVIOR/COOPERATION: <Node id="2965"/>Cooperative<Node id="2976"/>, <Node id="2978"/>good eye contact<Node id="2994"/>.<Node id="2995"/>
+<Node id="2996"/>MOVEMENT/PSYCHOMOTOR: Appropriate Posture.<Node id="3038"/> <Node id="3039"/>No Psychomotor agitation or retardation;<Node id="3079"/> <Node id="3080"/>no abnormal movements.<Node id="3102"/> 
+<Node id="3104"/>SPEECH: Normal rate, rhythm, volume, and tone
+MOOD: “<Node id="3157"/>Down, helpless, apathetic”
+AFFECT: Dysthymic, congruent with mood.<Node id="3223"/> <Node id="3224"/>Limited range.<Node id="3238"/> <Node id="3239"/>Appropriate intensity, stability, and reactivity.<Node id="3288"/> 
+<Node id="3290"/>THOUGHT CONTENT: Patient states she <Node id="3326"/>thinks about death “constantly<Node id="3356"/>”<Node id="3357"/> but <Node id="3362"/>she <Node id="3366"/>denies active suicidal ideation, plan or intent<Node id="3413"/> stating “I know <Node id="3430"/>I have to live for my son and my family<Node id="3469"/>”<Node id="3470"/>.<Node id="3471"/> <Node id="3472"/>No HI<Node id="3477"/> or AVH.<Node id="3485"/> <Node id="3486"/>Patient did not appear to be responding to internal stimuli.<Node id="3546"/> <Node id="3547"/>No paranoia, delusions, obsessions.<Node id="3582"/> 
+<Node id="3584"/>THOUGHT PROCESS: Linear, logical, goal-directed.<Node id="3632"/> <Node id="3633"/>Tight associations.<Node id="3652"/> 
+<Node id="3654"/>INSIGHT: Good.<Node id="3668"/>
+<Node id="3669"/>JUDGEMENT : Good.<Node id="3686"/> 
+<Node id="3688"/>COGNITION: Alert and <Node id="3709"/>oriented to person, place, time, and situation<Node id="3755"/>.<Node id="3756"/> <Node id="3757"/>Grossly intact.<Node id="3772"/> 
+<Node id="3774"/>PSYCHOMETRIC QUESTIONNAIRES:<Node id="3802"/>
+<Node id="3803"/>PHQ-9 (Depression): 22 (Severe)<Node id="3834"/>
+<Node id="3835"/>GAD-7 (Anxiety): 8 (Mild)
+ASSESSMENT &amp; PLAN<Node id="3878"/>
+<Node id="3879"/>Patient is a 37 year old female with history of major depressive disorder who presents with recurrence in depressed mood consistent with recurrence of major depressive disorder.<Node id="4056"/> <Node id="4057"/>PHQ-9 22.<Node id="4066"/> <Node id="4067"/>She is <Node id="4074"/>thinking about death constantly<Node id="4105"/>, but <Node id="4111"/>does not want to kill herself and has no plan<Node id="4156"/>.<Node id="4157"/> 
+<Node id="4159"/>Patient is at low risk of suicide, considering lack of risk factors.<Node id="4227"/> <Node id="4228"/>Continue current outpatient management.<Node id="4267"/> <Node id="4268"/>We discussed that developing a plan and self-<Node id="4313"/>harm with intent to commit suicide is considered a medical emergency<Node id="4381"/>, and she should go to the emergency room immediately.<Node id="4435"/> 
+<Node id="4437"/>She is <Node id="4444"/>interested<Node id="4454"/> in restarting weekly therapy<Node id="4483"/> with her prior therapist (Johnson), and she will call to schedule an appointment.<Node id="4565"/> 
+<Node id="4567"/>Reinitiate bupropion therapy<Node id="4595"/>, as she <Node id="4604"/>recalls responding the best to this antidepressant<Node id="4654"/>.<Node id="4655"/> <Node id="4656"/>She would also <Node id="4671"/>like to avoid the weight gain<Node id="4700"/> associated with typical SSRIs.<Node id="4731"/> 
+<Node id="4733"/>Encouraged her to begin a daily exercise regimen, and <Node id="4787"/>she felt that a daily <Node id="4809"/>walk<Node id="4813"/> of <Node id="4817"/>15<Node id="4819"/>+ minutes was the most feasible.<Node id="4851"/> 
+<Node id="4853"/>Follow up in one month, or sooner if needed.<Node id="4897"/> 
+</TextWithNodes>
+  <!-- The default annotation set -->
+  <AnnotationSet name=""/>
+  <!-- Named annotation set -->
+  <AnnotationSet name="Original markups"/>
+  <AnnotationSet Name="mobility">
+    <Annotation Type="Action" Id="1" StartNode="538" EndNode="546">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d415</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">Able</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Mobility" Id="2" StartNode="538" EndNode="554">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Quantification" Id="3" StartNode="547" EndNode="554">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Time</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="mobility_model">
+    <Annotation Type="Action" Id="1" StartNode="538" EndNode="546">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Mobility" Id="2" StartNode="524" EndNode="554">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Quantification" Id="3" StartNode="547" EndNode="554">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="4" StartNode="4809" EndNode="4813">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Mobility" Id="5" StartNode="4787" EndNode="4819">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Quantification" Id="6" StartNode="4817" EndNode="4819">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">mobility_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="scdl">
+    <Annotation Type="SelfCaredomesticLife" Id="1" StartNode="556" EndNode="608">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="2" StartNode="556" EndNode="608">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d660</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">Unclear</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="3" StartNode="1191" EndNode="1264">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Objective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Past</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="4" StartNode="1191" EndNode="1264">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d570</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="5" StartNode="1328" EndNode="1350">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="6" StartNode="1328" EndNode="1350">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d570</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="7" StartNode="1556" EndNode="1581">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="8" StartNode="1556" EndNode="1581">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">Therapy</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="9" StartNode="1602" EndNode="1657">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Past</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="10" StartNode="1602" EndNode="1657">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">Manage medication</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="11" StartNode="1801" EndNode="1821">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Past</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="12" StartNode="1801" EndNode="1821">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">Therapy</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="13" StartNode="2097" EndNode="2150">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="14" StartNode="2097" EndNode="2150">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d570</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="15" StartNode="2267" EndNode="2291">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Subjective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="16" StartNode="2267" EndNode="2291">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d570</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="17" StartNode="2830" EndNode="2851">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Objective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="18" StartNode="2830" EndNode="2851">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d540</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">Unclear</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="19" StartNode="2920" EndNode="2928">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d520</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCaredomesticLife" Id="20" StartNode="2911" EndNode="2940">
+      <Feature>
+        <Name className="java.lang.String">Type</Name>
+        <Value className="java.lang.String">Objective</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Subject</Name>
+        <Value className="java.lang.String">Patient</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Timeline</Name>
+        <Value className="java.lang.String">Present</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="21" StartNode="2933" EndNode="2940">
+      <Feature>
+        <Name className="java.lang.String">Subdomain Code</Name>
+        <Value className="java.lang.String">d520</Value>
+      </Feature>
+      <Feature>
+        <Name className="java.lang.String">Polarity</Name>
+        <Value className="java.lang.String">No polarity</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="scdl_model">
+    <Annotation Type="SelfCareDomesticLife" Id="1" StartNode="1008" EndNode="1059">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="2" StartNode="1012" EndNode="1059">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="3" StartNode="1183" EndNode="1264">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="4" StartNode="1187" EndNode="1264">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="5" StartNode="1328" EndNode="1350">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="6" StartNode="1328" EndNode="1350">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="7" StartNode="1587" EndNode="1673">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="8" StartNode="1602" EndNode="1673">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="9" StartNode="2089" EndNode="2150">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="10" StartNode="2097" EndNode="2150">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="11" StartNode="2822" EndNode="2837">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="12" StartNode="2830" EndNode="2837">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="13" StartNode="2920" EndNode="2928">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="14" StartNode="2911" EndNode="2940">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="15" StartNode="2933" EndNode="2940">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="16" StartNode="3362" EndNode="3413">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="17" StartNode="3366" EndNode="3413">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="18" StartNode="4313" EndNode="4381">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="19" StartNode="4313" EndNode="4381">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="SelfCareDomesticLife" Id="20" StartNode="4567" EndNode="4595">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="Action" Id="21" StartNode="4567" EndNode="4595">
+      <Feature>
+        <Name className="java.lang.String">annotator</Name>
+        <Value className="java.lang.String">scdl_lstm_crf</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="comcog">
+    <Annotation Type="Communication_Cognition" Id="1" StartNode="524" EndNode="554"/>
+    <Annotation Type="Communication_Cognition" Id="2" StartNode="556" EndNode="608"/>
+    <Annotation Type="Communication_Cognition" Id="3" StartNode="817" EndNode="931"/>
+    <Annotation Type="Communication_Cognition" Id="4" StartNode="1012" EndNode="1059"/>
+    <Annotation Type="Communication_Cognition" Id="5" StartNode="1085" EndNode="1115"/>
+    <Annotation Type="Communication_Cognition" Id="6" StartNode="1403" EndNode="1424"/>
+    <Annotation Type="Communication_Cognition" Id="7" StartNode="3326" EndNode="3356"/>
+    <Annotation Type="Communication_Cognition" Id="8" StartNode="3366" EndNode="3413"/>
+    <Annotation Type="Communication_Cognition" Id="9" StartNode="3472" EndNode="3477"/>
+    <Annotation Type="Communication_Cognition" Id="10" StartNode="3709" EndNode="3755"/>
+    <Annotation Type="Communication_Cognition" Id="11" StartNode="4074" EndNode="4105"/>
+    <Annotation Type="Communication_Cognition" Id="12" StartNode="4111" EndNode="4156"/>
+    <Annotation Type="Communication_Cognition" Id="13" StartNode="4444" EndNode="4483"/>
+    <Annotation Type="Communication_Cognition" Id="14" StartNode="4604" EndNode="4654"/>
+    <Annotation Type="Communication_Cognition" Id="15" StartNode="4671" EndNode="4700"/>
+  </AnnotationSet>
+  <AnnotationSet Name="comcog_model">
+    <Annotation Type="Communication_Cognition" Id="1" StartNode="367" EndNode="391"/>
+    <Annotation Type="Communication_Cognition" Id="2" StartNode="1012" EndNode="1059"/>
+    <Annotation Type="Communication_Cognition" Id="3" StartNode="1085" EndNode="1116"/>
+    <Annotation Type="Communication_Cognition" Id="4" StartNode="2965" EndNode="2976"/>
+    <Annotation Type="Communication_Cognition" Id="5" StartNode="2978" EndNode="2994"/>
+    <Annotation Type="Communication_Cognition" Id="6" StartNode="3326" EndNode="3357"/>
+    <Annotation Type="Communication_Cognition" Id="7" StartNode="3366" EndNode="3470"/>
+    <Annotation Type="Communication_Cognition" Id="8" StartNode="4074" EndNode="4156"/>
+    <Annotation Type="Communication_Cognition" Id="9" StartNode="4444" EndNode="4454"/>
+  </AnnotationSet>
+  <AnnotationSet Name="ipir">
+    <Annotation Type="IPIR_no" Id="1" StartNode="0" EndNode="24">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="2" StartNode="26" EndNode="56">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="3" StartNode="57" EndNode="64">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="4" StartNode="65" EndNode="69">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="5" StartNode="70" EndNode="82">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="6" StartNode="83" EndNode="114">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="7" StartNode="115" EndNode="146">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="8" StartNode="147" EndNode="151">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="9" StartNode="152" EndNode="195">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="10" StartNode="196" EndNode="325">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="11" StartNode="326" EndNode="392">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="12" StartNode="393" EndNode="523">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="13" StartNode="524" EndNode="593">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="14" StartNode="594" EndNode="609">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="15" StartNode="610" EndNode="732">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="16" StartNode="733" EndNode="803">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="17" StartNode="804" EndNode="932">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="18" StartNode="933" EndNode="1007">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="19" StartNode="1008" EndNode="1166">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="20" StartNode="1167" EndNode="1182">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="21" StartNode="1183" EndNode="1265">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="22" StartNode="1266" EndNode="1286">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="23" StartNode="1287" EndNode="1327">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="24" StartNode="1328" EndNode="1351">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="25" StartNode="1352" EndNode="1438">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="26" StartNode="1439" EndNode="1515">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="27" StartNode="1516" EndNode="1721">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="28" StartNode="1723" EndNode="1743">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="29" StartNode="1745" EndNode="1800">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="30" StartNode="1801" EndNode="2005">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="31" StartNode="2006" EndNode="2073">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="32" StartNode="2074" EndNode="2229">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="33" StartNode="2230" EndNode="2246">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="34" StartNode="2247" EndNode="2260">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="35" StartNode="2260" EndNode="2308">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="36" StartNode="2310" EndNode="2386">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="37" StartNode="2387" EndNode="2466">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="38" StartNode="2467" EndNode="2482">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="39" StartNode="2483" EndNode="2525">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="40" StartNode="2526" EndNode="2575">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="41" StartNode="2575" EndNode="2675">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="42" StartNode="2675" EndNode="2694">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="43" StartNode="2695" EndNode="2701">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="44" StartNode="2702" EndNode="2709">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="45" StartNode="2710" EndNode="2716">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="46" StartNode="2717" EndNode="2749">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="47" StartNode="2750" EndNode="2821">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="48" StartNode="2822" EndNode="2910">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="49" StartNode="2911" EndNode="2941">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="50" StartNode="2943" EndNode="2995">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="51" StartNode="2996" EndNode="3038">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="52" StartNode="3039" EndNode="3079">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="53" StartNode="3080" EndNode="3102">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="54" StartNode="3104" EndNode="3157">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="55" StartNode="3157" EndNode="3223">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="56" StartNode="3224" EndNode="3238">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="57" StartNode="3239" EndNode="3288">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="58" StartNode="3290" EndNode="3471">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="59" StartNode="3472" EndNode="3485">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="60" StartNode="3486" EndNode="3546">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="61" StartNode="3547" EndNode="3582">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="62" StartNode="3584" EndNode="3632">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="63" StartNode="3633" EndNode="3652">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="64" StartNode="3654" EndNode="3668">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="65" StartNode="3669" EndNode="3686">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="66" StartNode="3688" EndNode="3756">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="67" StartNode="3757" EndNode="3772">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="68" StartNode="3774" EndNode="3802">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="69" StartNode="3803" EndNode="3834">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="70" StartNode="3835" EndNode="3878">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="71" StartNode="3879" EndNode="4056">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="72" StartNode="4057" EndNode="4066">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="73" StartNode="4067" EndNode="4157">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="74" StartNode="4159" EndNode="4227">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="75" StartNode="4228" EndNode="4267">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="76" StartNode="4268" EndNode="4435">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="77" StartNode="4437" EndNode="4565">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="78" StartNode="4567" EndNode="4655">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="79" StartNode="4656" EndNode="4731">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="80" StartNode="4733" EndNode="4851">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="81" StartNode="4853" EndNode="4897">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="ipir_entity">
+    <Annotation Type="IPIR_yes" Id="1" StartNode="1309" EndNode="1326">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="2" StartNode="2965" EndNode="2976">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="3" StartNode="2978" EndNode="2994">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="4" StartNode="3430" EndNode="3469">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="5" StartNode="3472" EndNode="3477">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">True</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+  <AnnotationSet Name="ipir_model">
+    <Annotation Type="IPIR_no" Id="1" StartNode="0" EndNode="24">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="2" StartNode="26" EndNode="56">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="3" StartNode="57" EndNode="64">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="4" StartNode="65" EndNode="69">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="5" StartNode="70" EndNode="82">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="6" StartNode="83" EndNode="114">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="7" StartNode="115" EndNode="146">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="8" StartNode="147" EndNode="151">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="9" StartNode="152" EndNode="195">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="10" StartNode="196" EndNode="325">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="11" StartNode="326" EndNode="392">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="12" StartNode="393" EndNode="523">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="13" StartNode="524" EndNode="593">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="14" StartNode="594" EndNode="609">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="15" StartNode="610" EndNode="732">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="16" StartNode="733" EndNode="803">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="17" StartNode="804" EndNode="932">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="18" StartNode="933" EndNode="1007">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="19" StartNode="1008" EndNode="1166">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="20" StartNode="1167" EndNode="1182">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="21" StartNode="1183" EndNode="1265">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="22" StartNode="1266" EndNode="1286">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="23" StartNode="1287" EndNode="1327">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="24" StartNode="1328" EndNode="1351">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="25" StartNode="1352" EndNode="1438">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="26" StartNode="1439" EndNode="1515">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="27" StartNode="1516" EndNode="1721">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="28" StartNode="1723" EndNode="1743">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="29" StartNode="1745" EndNode="1800">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="30" StartNode="1801" EndNode="2005">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="31" StartNode="2006" EndNode="2073">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="32" StartNode="2074" EndNode="2229">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="33" StartNode="2230" EndNode="2246">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="34" StartNode="2247" EndNode="2260">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="35" StartNode="2260" EndNode="2308">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="36" StartNode="2310" EndNode="2386">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="37" StartNode="2387" EndNode="2466">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="38" StartNode="2467" EndNode="2482">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="39" StartNode="2483" EndNode="2525">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="40" StartNode="2526" EndNode="2575">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="41" StartNode="2575" EndNode="2675">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="42" StartNode="2675" EndNode="2694">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="43" StartNode="2695" EndNode="2701">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="44" StartNode="2702" EndNode="2709">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="45" StartNode="2710" EndNode="2716">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="46" StartNode="2717" EndNode="2749">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="47" StartNode="2750" EndNode="2821">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="48" StartNode="2822" EndNode="2910">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="49" StartNode="2911" EndNode="2941">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="50" StartNode="2943" EndNode="2995">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="51" StartNode="2996" EndNode="3038">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="52" StartNode="3039" EndNode="3079">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="53" StartNode="3080" EndNode="3102">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="54" StartNode="3104" EndNode="3157">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="55" StartNode="3157" EndNode="3223">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="56" StartNode="3224" EndNode="3238">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="57" StartNode="3239" EndNode="3288">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="58" StartNode="3290" EndNode="3471">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="59" StartNode="3472" EndNode="3485">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="60" StartNode="3486" EndNode="3546">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="61" StartNode="3547" EndNode="3582">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="62" StartNode="3584" EndNode="3632">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="63" StartNode="3633" EndNode="3652">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="64" StartNode="3654" EndNode="3668">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="65" StartNode="3669" EndNode="3686">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="66" StartNode="3688" EndNode="3756">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="67" StartNode="3757" EndNode="3772">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="68" StartNode="3774" EndNode="3802">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_yes" Id="69" StartNode="3803" EndNode="3834">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="70" StartNode="3835" EndNode="3878">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="71" StartNode="3879" EndNode="4056">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="72" StartNode="4057" EndNode="4066">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="73" StartNode="4067" EndNode="4157">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="74" StartNode="4159" EndNode="4227">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="75" StartNode="4228" EndNode="4267">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="76" StartNode="4268" EndNode="4435">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="77" StartNode="4437" EndNode="4565">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="78" StartNode="4567" EndNode="4655">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="79" StartNode="4656" EndNode="4731">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="80" StartNode="4733" EndNode="4851">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+    <Annotation Type="IPIR_no" Id="81" StartNode="4853" EndNode="4897">
+      <Feature>
+        <Name className="java.lang.String">difficult_to_determine</Name>
+        <Value className="java.lang.String">False</Value>
+      </Feature>
+    </Annotation>
+  </AnnotationSet>
+</GateDocument>

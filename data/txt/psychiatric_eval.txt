@@ -1,0 +1,69 @@
+IDENTIFYING INFORMATION: 
+Name: Jane Doe
+DOB: xx/xx/xxxx Age: 18 y.o.
+MRN: xxxxxxx
+Current Legal Status: Voluntary
+Legal Guardian: Self
+
+SUBJECTIVE
+
+HPI:
+History obtained from: Patient
+Patient is a 37-year-old female with history of major depressive disorder who presents with increased depressed mood for the last four months. She reports: “I feel down, helpless, I don’t want to do anything”. She describes increased fatigue, but she has difficulty falling asleep and staying asleep, with frequent early morning awakenings. Some days she lies bed all day, leaving her husband to care for their 8-year-old son. She also feels guilty about being a “bad wife and mother” who “should be doing a lot more housework since I’m unemployed.” She has lost interest in former hobbies, like baking and scrapbooking. She also has difficulty concentrating, which she notices during conversations with family members or when reading the newspaper. She has also had a poor appetite, losing 10 pounds over the past 2 months. She denies active suicidal ideation, plan or intent, but she admits that she thinks about death “constantly” and feels “the world would probably be better off I wasn’t here.” She has no history of suicide attempts psychiatric hospitalizations, or self-harm. No guns in the home. She is married with a supportive spouse. No alcohol or drug use. She was fired from her job as an accountant due to poor work performance one year ago. In the past, her symptoms have been intermittent with no relation to season. She has had several years of individual psychotherapy “off and on” and has previously tried fluoxetine, sertraline, bupropion and venlafaxine up to max doses, with minimal improvement in her mood symptoms. 
+
+PSYCHIATRIC HISTORY: 
+Diagnoses: Major depressive disorder (diagnosed age 30)
+Psychotherapy: Prior with Michael Johnson, PhD
+Current Medications: None 
+Prior Medications: fluoxetine, sertraline, bupropion and venlafaxine
+Exposure to violence: None
+Guns in home: None
+
+SOCIAL HISTORY:
+Current Living Situation: Lives with husband, daughter (4), son (7)
+Substance Use: Patient denies use and/or abuse of tobacco, alcohol, or drugs
+Education: Community college graduate
+Employment: Unemployed for about a year; prior accountant
+Legal History: None
+Exercise: None currently
+
+MEDICAL HISTORY: 
+Problems: Type II Diabetes Mellitus (since 2015), hypertension (since 2014), Obesity
+Medications: metformin 500 mg twice daily and enalapril 5mg twice a day
+Allergies: NKDA
+
+SURGICAL HISTORY: Cholecystectomy (age 25)
+
+FAMILY HISTORY: Noncontributory
+
+REVIEW OF SYSTEMS: A comprehensive review of systems was performed and was negative except for noted above
+
+OBJECTIVE:
+
+Vitals: BP 145/96; HR 89; T 98.2; RR: 12
+
+DIRECT MENTAL STATUS EXAMINATION
+APPEARANCE: Obese Caucasian female who appeared stated age accompanied. She was dressed appropriately in a coat and jeans for the current weather and situation. Adequate grooming and hygiene. 
+BEHAVIOR/COOPERATION: Cooperative, good eye contact.
+MOVEMENT/PSYCHOMOTOR: Appropriate Posture. No Psychomotor agitation or retardation; no abnormal movements. 
+SPEECH: Normal rate, rhythm, volume, and tone
+MOOD: “Down, helpless, apathetic”
+AFFECT: Dysthymic, congruent with mood. Limited range. Appropriate intensity, stability, and reactivity. 
+THOUGHT CONTENT: Patient states she thinks about death “constantly” but she denies active suicidal ideation, plan or intent stating “I know I have to live for my son and my family”. No HI or AVH. Patient did not appear to be responding to internal stimuli. No paranoia, delusions, obsessions. 
+THOUGHT PROCESS: Linear, logical, goal-directed. Tight associations. 
+INSIGHT: Good.
+JUDGEMENT: Good. 
+COGNITION: Alert and oriented to person, place, time, and situation. Grossly intact. 
+
+PSYCHOMETRIC QUESTIONNAIRES:
+PHQ-9 (Depression): 22 (Severe)
+GAD-7 (Anxiety): 8 (Mild)
+
+ASSESSMENT & PLAN
+Patient is a 37 year old female with history of major depressive disorder who presents with recurrence in depressed mood consistent with recurrence of major depressive disorder. PHQ-9 22. She is thinking about death constantly, but does not want to kill herself and has no plan. 
+-	Patient is at low risk of suicide, considering lack of risk factors. Continue current outpatient management. We discussed that developing a plan and self-harm with intent to commit suicide is considered a medical emergency, and she should go to the emergency room immediately. 
+-	She is interested in restarting weekly therapy with her prior therapist (Johnson), and she will call to schedule an appointment. 
+-	Reinitiate bupropion therapy, as she recalls responding the best to this antidepressant. She would also like to avoid the weight gain associated with typical SSRIs. 
+-	Encouraged her to begin a daily exercise regimen, and she felt that a daily walk of 15+ minutes was the most feasible. 
+
+Follow up in one month, or sooner if needed. 

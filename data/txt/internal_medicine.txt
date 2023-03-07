@@ -1,0 +1,57 @@
+INTERNAL MEDICINE SYNTHETIC NOTE
+Name:  Jane Doe	
+Date of Birth:  01-01-1111
+Exam Date: 01-01-1111
+SUBJECTIVE:
+CHIEF COMPLAINT: “Hand pain”
+REVIEW OF RECORDS: 1. Problem list in 2018 shows pain in wrists bilateral; numbness in both feet, diabetes, Clinical depression. 2. Progress notes on 04-04-2019 gives an assessment of joint pain in both hands, diabetes and depression. 3. X-ray on 04-04-2019 of both hands unremarkable
+HISTORY OF PRESENT ILLNESS: Mrs. Doe is a 50-year-old female with a history of type 2 diabetes mellitus, major depressive disorder, and obesity who comes to the office complaining of increased hand pain i approximately 2 months. The pain is most noticeable in her DIPs and worsens as the with activity/movement and toward the end of the day. She describes the pain as dull and achy. Ibuprofen and meloxicam have provided some relief. However, she has quit her job as a housekeeper due to the pain, which causes difficulty with writing, grasping and holding onto objects, and lifting and carrying objects, which is particularly problematic when doing house chores.  Some morning stiffness that resolves within 30 minutes. The pain does not radiate. No numbness or tingling. No weakness or clumsiness. No pain in other joints. No change in appearance of her finger joints. No fatigue/malaise. Prior evaluation at PCP and rheumatology including X ray with diagnosis of osteoarthritis. 
+She can drive but prefers to take public transportation due to the pain in her hands that limit her mobility at the end of the day. She can perform activities of daily living mostly without problems or pain in the morning (getting up from the bed, showering, dressing, brushing her teeth, cleaning the house) but she has noticed limitations in these activities at night due to limited range of motion and painful joints. 
+PAST MEDICAL HISTORY: Patient has been seeing a psychiatrist for her depressive symptoms for the past 4 years. She was hospitalized for suicidal ideation (without attempt) 3 years ago and admitted to the psychiatric unit for 2 weeks for stabilization and medication management.
+ALLERGIES: None
+PAST SURGICAL HISTORY: cholecystectomy (uncomplicated, 2013).
+CURRENT MEDICATIONS: 
+Metformin 1000 mg twice a day
+Prozac 40mg daily
+Meloxicam 15mg once daily as needed for joint pain
+FAMILY HISTORY: Father alive with diagnosis of a heart problem (patient can’t recall the name). Mother alive with diagnosis of diabetes mellitus type 2 and fibromyalgia. One older sibling with whom she is not in contact with unknown medical history. Has 2 children ages 25 and 20 years old and in good health.
+SEXUAL HISTORY: Patient sexually active with husband of 15 years
+SOCIAL HISTORY: 
+-Education: High school graduate; completed one year of college before dropping out due to “disinterest.”
+-Work: She has held many jobs related to the hotel and restaurant industry and currently works as a housekeeper for a hotel
+-Home: Patient lives with her husband and two children in a single-family home and states she feels safe at home.
+-Alcohol: Patient drinks approximately 2 glasses of wine per week (with dinner), never to the point of being drunk.
+-Drugs: Patient admits to the use of marijuana several years ago but currently denies the use of any recreational drugs
+-Tobacco: Patient denies the use of tobacco
+-Exercise: Patient states she goes for 30-minute walks with her husband most evenings of the week and some weekends she participates in Zumba classes. She acknowledges that “exercising is not a priority” for her
+-Diet: Patient is currently obese and states she has been trying to make dietary changes, including fruit and vegetables at dinner time. She states she has dropped 5lbs in the past two months.
+
+REVIEW OF SYSTEMS:
+The patient states she has no other problems apart from the ones noted in the history. The patient does not report any other symptoms or conditions within the following systems: HEENT, dermatology, cardiology, pulmonary, gastrointestinal, genitourinary or neurology.
+OBJECTIVE:
+PHYSICAL EXAM:
+Vital signs: BP:130/85; P:70: RR:15; Ht:5’4’’; Wt: 200 lbs. (without shoes)
+General appearance: Mrs. Doe is alert and oriented to person, time and place. She is neatly groomed and dressed in weather-appropriate clothing. She arrived on time for the appointment and is accompanied by her husband.
+She walks into the exam room without an assistive device and her gait is unremarkable. She does seem to have trouble getting up from the chair and into the exam table, using her husband’s assistance. She is noticed to have some difficulty unbuttoning and buttoning her shirt during the physical exam but manages to do so slowly.
+Specific findings: 
+Cardiovascular exam: RRR. Normal S1-S2, no murmurs, rubs or gallops. Peripheral pulses are palpable.
+Pulmonary exam: Chest symmetric, CTAB. Clear breath sounds (NO wheezes, crackles, rhonchi, rubs)
+Abdominal exam: Soft, nontender, not distended, BS+. No hepato/splenomegaly.
+Extremities: Firm, painless nodules on dorsal DIPs of bilateral first and left third digit. Variable tenderness with mild edema at the DIPs of digits 2-5 bilaterally. Full range of motion of DIPs. no clubbing, no cyanosis. 
+SKIN: No rashes 
+LABORATORY AND DIAGNOSIS STUDIES (from medical records review):
+HgA1c: 7.1
+CMP, CMP, LFTs: Unremarkable
+Elevated erythrocyte sedimentation rate (ESR)  
+Elevated C-reactive protein (CRP)
+Rheumatoid Factor antibody negative
+
+ASSESSMENT AND PLAN
+Osteoarthritis
+Symptoms are most consistent with osteoarthritis of the DIPs bilaterally. Considering her age and distribution, will obtain lab workup to rule our secondary causes. 
+-	X ray hands bilaterally (2 views)
+-	Check CBC, ESR, CRP, anti-CCP, RF
+-	Topical NSAID therapy with Voltaren gel
+-	Refer to physical therapy for hand exercises 
+-	Consider surgical referral if no improvement ins symptoms
+Follow up in 1-2 months if labs normal
